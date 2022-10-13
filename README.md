@@ -1,4 +1,4 @@
-# MIPS_pseudo_interpreter
+# MIPS pseudo-interpreter with logic gates
 MIPS interpreter with 32 bit memory
 
 Project write up can be found here:
